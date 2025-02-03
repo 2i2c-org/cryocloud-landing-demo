@@ -1,20 +1,22 @@
 ---
 title: Welcome to CryoCloud
 subtitle:
+site:
+  hide_outline: true
+  hide_title_block: true
 ---
 
-+++ {"block": "cta" }
++++ {"block": "split-image" }
+
+Welcome
 
 ## Welcome to CryoCloud
 
 Accelerating discovery and enhancing collaboration for NASA Cryosphere communities
 
-[Contact Us](https://cryointhecloud.com/contact-us)
-
-+++ {"block": "split-image" }
-
 ![An image.](https://img1.wsimg.com/isteam/ip/c763ff7b-8175-4828-94ba-a610f6ca5b94/SealTagTeamVIceberg.png/:/rs=w:1333,h:1000,cg:true,m/cr=w:1333,h:1000)
 
+{button}`Contact Us <https://cryointhecloud.com/contact-us>`
 +++
 
 ## Access CryoCloud

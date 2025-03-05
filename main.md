@@ -1,14 +1,11 @@
 ---
-title: Welcome to CryoCloud
-subtitle:
-
 site:
   hide_outline: true
   hide_toc: true
   hide_title_block: true
 ---
 
-+++ {"class": "split-image" }
++++ {"kind": "split-image" }
 
 Welcome
 
@@ -20,7 +17,7 @@ Accelerating discovery and enhancing collaboration for NASA Cryosphere communiti
 
 {button}`Contact Us <https://cryointhecloud.com/contact-us>`
 
-+++ { "class": "justified"}
++++ { "kind": "justified"}
 
 Access CryoCloud
 
@@ -51,7 +48,7 @@ Get onto the cloud. Our shared cloud platform for NASA Cryosphere communities.
 
 :::::
 
-+++ {"class": "logo-cloud"}
++++ {"kind": "logo-cloud"}
 
 Other projects you've heard of
 
@@ -74,7 +71,7 @@ ICESAT-2
 
 {button}`Our Funders<#>`
 
-+++ { "class": "centered"}
++++ { "kind": "centered"}
 
 ## Heading 1
 
@@ -82,17 +79,28 @@ A wild caption appeared!
 
 ### Heading 2
 
-See more
+{button}`Get started<#>` See more
 
-{button}`Get started<#>`
 [Learn more]()
 
-+++
++++ { "kind": "justified"}
 
-+++ { "class": "no-such-block" }
+A subtitle?
+
+## Heading 1
+
+A wild caption appeared!
+
+### Heading 2
+
+{button}`Get started<#>` This is a description.
+
+[Learn more]()
+
++++ { "kind": "no-such-block" }
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-+++ { "class": "split-image" }
++++ { "kind": "split-image" }
 
 Uh oh, no image!

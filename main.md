@@ -1,4 +1,5 @@
 ---
+title: Welcome to CryoCloud
 site:
   hide_outline: true
   hide_toc: true
